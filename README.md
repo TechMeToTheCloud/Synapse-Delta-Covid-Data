@@ -1,2 +1,2 @@
 # Synapse-Delta-Covid-Data
-Sample of Synapse example using Delta
+Sample of Synapse examples using Delta
