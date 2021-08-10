@@ -1,2 +1,2 @@
 # Synapse-Delta-Covid-Data
-Sample of Synapse examples using Delta
+Merge example in Synapse (SQL and Spark)
